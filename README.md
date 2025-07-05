@@ -29,8 +29,13 @@ Backlog bir sonraki sprintlerin temelini oluşturacak şekilde düzenlendi. Tahm
 Toplantılar Whatsapp üzerinden yapıldı. Screenshotlar linktedir.
 
 ## Sprint Board Update
+![image](https://github.com/user-attachments/assets/47414154-e6f8-42f2-bac3-e7e248a6d6a6)
+
 
 ## Ekran Görüntüleri
+![image](https://github.com/user-attachments/assets/9e75a06a-f053-471e-be02-38fd145514a3)
+![image](https://github.com/user-attachments/assets/abfe703d-842a-4a2d-938e-908f545aa022)
+
 
 ## Sprint Review
 Proje oy birliğiyle seçildi. Herkes kendisine ait görevlerle ilgili fikrini belirtti. Projenin devamı için yeni fikirler sunuldu. 
