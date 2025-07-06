@@ -39,9 +39,14 @@ https://imgur.com/a/mOOsRRf
 
 
 ## Sprint Review
-Proje oy birliğiyle seçildi. Herkes kendisine ait görevlerle ilgili fikrini belirtti. Projenin devamı için yeni fikirler sunuldu. 
+- Proje oy birliğiyle seçildi.
+- Herkes kendisine ait görevlerle ilgili fikrini belirtti.
+- Projenin devamı için yeni fikirler sunuldu.
+- Potansiyel riskler tartışıldı.
 
 ## Sprint Retrospective
-Toplantı günleri ve saatleri belirlendi.
-Görevler arası önceliklendirme yapılacak.
+- Toplantı günleri ve saatleri belirlendi.
+- Takımın iletişim sıklığı ve toplantı verimliliği değerlendirildi.
+- Görevler arası önceliklendirme yapılacak.
+- Sprint boyunca karşılaşılan zorluklar tartışıldı.
 
