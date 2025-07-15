@@ -19,6 +19,22 @@ https://miro.com/app/board/uXjVIhWZIAU=/?share_link_id=937694695242
 ## Sprint Notları 
 User story'ler product backlogların içine yazılmıştır. 
 
+# Sprint 2
+## Sprint Notları 
+Kullanılacak teknolojilere karar verildi,
+- Frontend: React.js
+- Backend: Node.js
+- Veritabanı: (örn. MongoDB veya PostgreSQL)
+- Yapay Zeka: TensorFlow.js veya Python tabanlı bir model (API ile entegrasyon)
+- Diğer: Socket.io (gerçek zamanlı bildirimler için), JWT (kimlik doğrulama için)
+## Planlanan Özellikler
+- Kullanıcı kaydı ve girişi (React + Node.js + JWT)
+- Kognitif testler (ör. Stroop Testi, N-back Testi, Hafıza Oyunları)
+- Test sonuçlarının görselleştirilmesi (grafikler, geçmiş karşılaştırması)
+- Yapay zeka ile ön değerlendirme ve öneriler (Test sonuçlarından risk analizi yapan bir model)
+- Sonuçların PDF olarak indirilmesi
+- Kullanıcı dostu, responsive arayüz
+
 ## Sprint içerisinde tamamlanması gereken puan:
 100 Puan
 
