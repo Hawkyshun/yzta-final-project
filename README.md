@@ -86,7 +86,15 @@ Toplantılar Whatsapp üzerinden yapıldı. Screenshotlar linktedir.
 
 ## Ekran Görüntüleri
 
+![1](https://github.com/user-attachments/assets/9be96bd8-9c56-4c82-b126-46398d2e1ec6)
 
+![2](https://github.com/user-attachments/assets/d7a26d9d-72f2-4978-ad45-6e7195acc5eb)
+
+![3](https://github.com/user-attachments/assets/2e57655e-bced-41c2-b151-7c2ebef32bb1)
+
+![4](https://github.com/user-attachments/assets/171878ca-184d-43aa-bf63-bb2eab607efb)
+
+![5](https://github.com/user-attachments/assets/888a934d-56a6-435c-826f-4942c3b67ec0)
 
 
 ## Sprint Review
