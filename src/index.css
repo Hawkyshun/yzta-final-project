@@ -1,0 +1,496 @@
+:root {
+  --bg-primary: #f9fafb;
+  --bg-secondary: #ffffff;
+  --text-primary: #1f2937;
+  --text-secondary: #6b7280;
+  --border-color: #e5e7eb;
+  --card-bg: rgba(255, 255, 255, 0.8);
+  --shadow-color: rgba(0, 0, 0, 0.1);
+}
+
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  min-height: 100vh;
+  margin: 0;
+  transition: all 0.3s ease;
+}
+
+body.dark-mode {
+  background: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+body.light-mode {
+  background: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+.main-container {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  box-shadow: none;
+  border-radius: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.logo {
+  width: 180px;
+  height: 180px;
+  margin-bottom: 32px;
+}
+
+h1 {
+  font-size: 4rem;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+
+p {
+  font-size: 1.5rem;
+  color: var(--text-secondary);
+  margin-bottom: 40px;
+  max-width: 800px;
+}
+
+button {
+  background: #2563eb;
+  color: #fff;
+  font-size: 1.3rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 16px;
+  padding: 18px 48px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+button:hover {
+  background: #1e40af;
+}
+.auth-container {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  text-align: center;
+}
+
+.auth-logo {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 24px;
+}
+
+.auth-form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 350px;
+  max-width: 90vw;
+  margin: 0 auto 16px auto;
+}
+
+.auth-form input {
+  padding: 12px;
+  font-size: 1.1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  outline: none;
+  background: var(--bg-secondary);
+  color: var(--text-primary);
+}
+
+.auth-options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.95rem;
+  margin-bottom: 8px;
+}
+
+.forgot-link {
+  color: #2563eb;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.auth-btn, .register-btn {
+  background: #2563eb;
+  color: #fff;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 12px;
+  padding: 14px 0;
+  width: 100%;
+  cursor: pointer;
+  margin-bottom: 8px;
+  transition: background 0.2s;
+}
+
+.auth-btn:hover, .register-btn:hover {
+  background: #1e40af;
+}
+
+.auth-divider {
+  margin: 12px 0;
+  color: #888;
+  font-size: 1rem;
+}
+
+.auth-info {
+  margin-top: 16px;
+  font-size: 1rem;
+  color: var(--text-secondary);
+  text-align: left;
+  max-width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.auth-info ul {
+  padding-left: 18px;
+  margin: 8px 0 0 0;
+}
+
+.auth-info li {
+  margin-bottom: 4px;
+}
+.testlist-container {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  background: var(--bg-primary);
+  padding-top: 48px;
+}
+
+.test-list {
+  width: 400px;
+  max-width: 90vw;
+  margin: 32px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.test-item {
+  background: var(--card-bg);
+  border-radius: 12px;
+  box-shadow: 0 4px 16px var(--shadow-color);
+  padding: 24px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 1.2rem;
+  border: 1px solid var(--border-color);
+}
+
+.test-btn {
+  background: #2563eb;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 28px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.test-btn:hover {
+  background: #1e40af;
+}
+
+.testlist-footer {
+  margin-top: 48px;
+  color: var(--text-secondary);
+  font-size: 1rem;
+  text-align: center;
+}
+
+/* Test Sayfası Stilleri */
+.test-container {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: var(--bg-primary);
+  padding: 20px;
+}
+
+.test-header {
+  width: 100%;
+  max-width: 800px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.test-header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: var(--text-primary);
+}
+
+.test-info {
+  display: flex;
+  justify-content: space-around;
+  background: var(--card-bg);
+  padding: 15px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px var(--shadow-color);
+  margin-bottom: 20px;
+  border: 1px solid var(--border-color);
+}
+
+.test-info span {
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.question-container {
+  width: 100%;
+  max-width: 800px;
+  background: var(--card-bg);
+  border-radius: 16px;
+  padding: 30px;
+  box-shadow: 0 4px 20px var(--shadow-color);
+  margin-bottom: 20px;
+  border: 1px solid var(--border-color);
+}
+
+.question-container h3 {
+  font-size: 1.4rem;
+  margin-bottom: 25px;
+  color: var(--text-primary);
+  line-height: 1.5;
+}
+
+.options-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.option-btn {
+  background: var(--bg-secondary);
+  border: 2px solid var(--border-color);
+  color: var(--text-primary);
+  font-size: 1.1rem;
+  padding: 15px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.2s;
+  text-align: left;
+}
+
+.option-btn:hover {
+  background: #e0e7ff;
+  border-color: #2563eb;
+  color: #1e40af;
+}
+
+.writing-question {
+  text-align: center;
+}
+
+.test-progress {
+  width: 100%;
+  max-width: 800px;
+  margin-top: 20px;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 8px;
+  background: var(--border-color);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #2563eb, #1e40af);
+  transition: width 0.3s ease;
+}
+
+.score-display {
+  background: var(--card-bg);
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 2px 8px var(--shadow-color);
+  margin: 20px 0;
+  border: 1px solid var(--border-color);
+}
+
+.score-display h2 {
+  color: var(--text-primary);
+  margin-bottom: 10px;
+}
+
+.score-display h3, .score-display h4 {
+  color: var(--text-primary);
+  margin: 5px 0;
+}
+
+.results-section {
+  width: 100%;
+  max-width: 800px;
+  background: var(--card-bg);
+  border-radius: 16px;
+  padding: 25px;
+  box-shadow: 0 4px 20px var(--shadow-color);
+  margin-bottom: 20px;
+  border: 1px solid var(--border-color);
+}
+
+.results-section h3 {
+  color: var(--text-primary);
+  margin-bottom: 15px;
+}
+
+.results-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.results-section li {
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border-color);
+  font-size: 1.1rem;
+  color: var(--text-primary);
+}
+
+.test-actions {
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.btn-primary, .btn-secondary {
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn-primary {
+  background: #2563eb;
+  color: #fff;
+}
+
+.btn-primary:hover {
+  background: #1e40af;
+}
+
+.btn-secondary {
+  background: #6b7280;
+  color: #fff;
+}
+
+.btn-secondary:hover {
+  background: #4b5563;
+}
+
+/* Hata mesajları için stiller */
+.error-input {
+  border-color: #dc2626 !important;
+  background-color: #fef2f2 !important;
+}
+
+.error-message {
+  color: #dc2626;
+  font-size: 0.8rem;
+  margin-top: 4px;
+  display: block;
+}
+
+/* Loading durumu için buton stilleri */
+.auth-btn:disabled {
+  background: #9ca3af;
+  cursor: not-allowed;
+}
+
+.auth-btn:disabled:hover {
+  background: #9ca3af;
+}
+
+/* Responsive iyileştirmeler */
+@media (max-width: 768px) {
+  .main-container h1 {
+    font-size: 2.5rem;
+  }
+  
+  .main-container p {
+    font-size: 1.2rem;
+    padding: 0 20px;
+  }
+  
+  .auth-form {
+    width: 90%;
+    max-width: 350px;
+  }
+  
+  .test-list {
+    width: 95%;
+  }
+  
+  .test-item {
+    padding: 20px 15px;
+    font-size: 1rem;
+  }
+  
+  .question-container {
+    padding: 20px;
+    margin: 10px;
+  }
+  
+  .test-info {
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .test-info span {
+    font-size: 0.9rem;
+  }
+}
+
+/* Toast Animasyonları */
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideOut {
+  from {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+}
