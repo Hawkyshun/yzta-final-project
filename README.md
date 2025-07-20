@@ -111,7 +111,11 @@ Sprint 2 sürecinde geliştirilen özellikler ve tamamlanan görevler board üze
 <img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/f54336a1-c554-45e1-99ae-a8397d4d8f8c" />
 <img width="1280" height="717" alt="image" src="https://github.com/user-attachments/assets/6c4d321a-307b-4ac7-8dcf-49bca5f5a343" />
 <img width="1280" height="712" alt="image" src="https://github.com/user-attachments/assets/90772084-cfe3-4c2c-881c-d72b98987786" />
-<img width="1280" height="908" alt="image" src="https://github.com/user-attachments/assets/456a1250-b416-4352-875c-e259f2ccacc1" />
+<img width="1280" height="1000" alt="image" src="https://github.com/user-attachments/assets/456a1250-b416-4352-875c-e259f2ccacc1" />
+<img width="1280" height="1000" alt="Ekran Resmi 2025-07-20 23 28 45" src="https://github.com/user-attachments/assets/a540b9ad-bf25-4941-b3a3-5b5c793693e3" />
+<img width="1280" height="1000" alt="Ekran Resmi 2025-07-20 23 30 01" src="https://github.com/user-attachments/assets/61f61439-ad7c-449c-b1e4-c1b80e563dd2" />
+<img width="1280" height="1000" alt="Ekran Resmi 2025-07-20 23 36 42" src="https://github.com/user-attachments/assets/d89ccb1e-13e5-4d7c-b431-d30b81b4f47c" />
+<img width="1280" height="1000" alt="Ekran Resmi 2025-07-20 23 36 50" src="https://github.com/user-attachments/assets/44834edb-8740-4f8d-bdbb-b75f47435eb5" />
 
 ## Sprint Review
 - Landing page, kullanıcı girişi, şifre sıfırlama ve test listesi sayfası başarıyla tasarlandı.
