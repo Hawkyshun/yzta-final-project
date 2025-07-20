@@ -12,6 +12,26 @@ NeuroScan
 ## Proje Açıklaması
 Neuroscan kullanıcıların ev ortamında kognitif işlevlerini değerlendirebileceği yapay zeka destekli bir tarama aracıdır. Temel nöropsikolojik semptomlara yönelik hızlı bir ön değerlendirme sunar. Amaç erken dönem bilişsel gerilemenin fark edilmesi ve bir doktora yönlendirmeyi desteklemektir.
 
+## Proje Yapısı
+
+```
+yzta-final-project/
+├── frontend/          # React.js frontend uygulaması
+│   ├── src/          # Kaynak kodlar
+│   ├── public/       # Statik dosyalar
+│   ├── package.json  # Frontend bağımlılıkları
+│   └── README.md     # Frontend dokümantasyonu
+├── Daily Scrum/      # Scrum toplantı kayıtları
+└── README.md         # Ana proje dokümantasyonu
+```
+
+## Teknolojiler
+
+- **Frontend**: React.js
+- **Backend**: Node.js (planlanan)
+- **Veritabanı**: MongoDB/PostgreSQL (planlanan)
+- **Yapay Zeka**: TensorFlow.js (planlanan)
+
 ## Product Backlog URL
 https://miro.com/app/board/uXjVIhWZIAU=/?share_link_id=937694695242
 
