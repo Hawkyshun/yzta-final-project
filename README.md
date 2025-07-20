@@ -107,7 +107,15 @@ Toplantılar Whatsapp üzerinden yapıldı. Screenshotlar linktedir.
 
 
 ## Sprint Review
-  
+- Landing page, kullanıcı girişi, şifre sıfırlama ve test listesi sayfası başarıyla tasarlandı.
+- Testler temel işlevsellikle geliştirildi.
+- Tüm testlerin tam skor mekanizması tamamlanmadı, 3. sprintte odaklanılacak.
+- Kullanıcı arayüzü anlaşılabilir ve sade olacak şekilde optimize edildi.
+- Geri bildirimler doğrultusunda açık-koyu tema eklendi.
 
-
- ## Sprint Retrospective
+## Sprint Retrospective
+- Daha sık ve kısa toplantılar yapma kararı alındı, iletişimde gecikmeler yaşandı.
+- Görev dağılımı önceki sprinte göre daha netti, ekip içi işbirliği arttı.
+- Zaman tahminleri bazı görevlerde fazla iyimserdi, planlama daha gerçekçi yapılmalı.
+- Geliştirilen bileşenlerin testleri sprint sonunda değil süreç içinde yapılmalı.
+- Görsel ve tıbbi içerikler için erken geri bildirim alınması süreci hızlandırabilir.
