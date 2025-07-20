@@ -49,7 +49,7 @@ Backlog bir sonraki sprintlerin temelini oluşturacak şekilde düzenlendi. Tahm
 
 ## Daily Scrum
 Toplantılar Whatsapp üzerinden yapıldı. Screenshotlar linktedir.
-https://imgur.com/a/mOOsRRf
+[https://imgur.com/a/mOOsRRf](https://github.com/Hawkyshun/yzta-final-project/tree/main/Daily%20Scrum)
 
 ## Sprint Board Update
 ![image](https://github.com/user-attachments/assets/47414154-e6f8-42f2-bac3-e7e248a6d6a6)
