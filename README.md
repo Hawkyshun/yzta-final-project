@@ -15,25 +15,11 @@ Neuroscan kullanıcıların ev ortamında kognitif işlevlerini değerlendirebil
 ## Product Backlog URL
 https://miro.com/app/board/uXjVIhWZIAU=/?share_link_id=937694695242
 
+
 # Sprint 1
 ## Sprint Notları 
 User story'ler product backlogların içine yazılmıştır. 
 
-# Sprint 2
-## Sprint Notları 
-Kullanılacak teknolojilere karar verildi,
-- Frontend: React.js
-- Backend: Node.js
-- Veritabanı: (örn. MongoDB veya PostgreSQL)
-- Yapay Zeka: TensorFlow.js veya Python tabanlı bir model (API ile entegrasyon)
-- Diğer: Socket.io (gerçek zamanlı bildirimler için), JWT (kimlik doğrulama için)
-## Planlanan Özellikler
-- Kullanıcı kaydı ve girişi (React + Node.js + JWT)
-- Kognitif testler (ör. Stroop Testi, N-back Testi, Hafıza Oyunları)
-- Test sonuçlarının görselleştirilmesi (grafikler, geçmiş karşılaştırması)
-- Yapay zeka ile ön değerlendirme ve öneriler (Test sonuçlarından risk analizi yapan bir model)
-- Sonuçların PDF olarak indirilmesi
-- Kullanıcı dostu, responsive arayüz
 
 ## Sprint içerisinde tamamlanması gereken puan:
 100 Puan
@@ -60,9 +46,51 @@ https://imgur.com/a/mOOsRRf
 - Projenin devamı için yeni fikirler sunuldu.
 - Potansiyel riskler tartışıldı.
 
-## Sprint Retrospective
+  ## Sprint Retrospective
 - Toplantı günleri ve saatleri belirlendi.
 - Takımın iletişim sıklığı ve toplantı verimliliği değerlendirildi.
 - Görevler arası önceliklendirme yapılacak.
 - Sprint boyunca karşılaşılan zorluklar tartışıldı.
 
+
+# Sprint 2
+## Sprint Notları 
+User Storyler product backlog içine yazılmıştır. Tıklandığında açıklamaları okunabilmektedir.
+Kullanılacak teknolojilere karar verildi,
+- Frontend: React.js
+- Backend: Node.js
+- Veritabanı: (örn. MongoDB veya PostgreSQL)
+- Yapay Zeka: TensorFlow.js veya Python tabanlı bir model (API ile entegrasyon)
+- Diğer: Socket.io (gerçek zamanlı bildirimler için), JWT (kimlik doğrulama için)
+## Planlanan Özellikler
+- Kullanıcı kaydı ve girişi (React + Node.js + JWT)
+- Kognitif testler (ör. Stroop Testi, N-back Testi, Hafıza Oyunları)
+- Test sonuçlarının görselleştirilmesi (grafikler, geçmiş karşılaştırması)
+- Yapay zeka ile ön değerlendirme ve öneriler (Test sonuçlarından risk analizi yapan bir model)
+- Sonuçların PDF olarak indirilmesi
+- Kullanıcı dostu, responsive arayüz
+
+## Sprint içerisinde tamamlanması gereken puan:
+116 Puan
+
+## Puan Tamamlama Mantığı
+Backlog bir sonraki sprintlerin temelini oluşturacak şekilde düzenlendi. Tahmin edilen puan sayısına uygun şekilde görev dağıtımı yapıldı.
+## Product Backlog URL
+https://miro.com/welcomeonboard/bGgxQlhIVTNNdkxXM1lTcjNCdWVZOWplMGFOVmJmTzBCQ3ZvY2J2anRRb3hyMGlKREdRRDhjOFBLU1Q5dldkTkludEpJVFRuQStLNkhxYzBUTlkwK005dnFoWU9tRlFHWTJkMy9Qb0dZNTI3MVgvSkVVakdZNUNNUlFxcXIzemtnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=88465932035
+## Daily Scrum
+Toplantılar Whatsapp üzerinden yapıldı. Screenshotlar linktedir.
+
+## Sprint Board Update
+
+
+
+## Ekran Görüntüleri
+
+
+
+
+## Sprint Review
+  
+
+
+ ## Sprint Retrospective
