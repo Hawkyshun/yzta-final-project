@@ -1,4 +1,4 @@
-# yzta-final-project
+<img width="1280" height="715" alt="image" src="https://github.com/user-attachments/assets/7528dafe-5eab-4c7b-b848-f4577d4bdf0d" /># yzta-final-project
 
 ## Grup Üyeleri (Grup 58)
 - Furkan Erdoğan
@@ -86,15 +86,24 @@ Toplantılar Whatsapp üzerinden yapıldı. Screenshotlar linktedir.
 
 ## Ekran Görüntüleri
 
-![1](https://github.com/user-attachments/assets/9be96bd8-9c56-4c82-b126-46398d2e1ec6)
+<img width="1280" height="685" alt="image" src="https://github.com/user-attachments/assets/7055ed54-d9f6-4585-aabe-380c62bb7643" />
+<img width="1280" height="715" alt="image" src="https://github.com/user-attachments/assets/5e9dac15-9c3a-451a-944c-b18ca704a449" />
+<img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/9bf92642-d0ff-4faf-8c60-411120ef6a60" />
+<img width="1280" height="711" alt="image" src="https://github.com/user-attachments/assets/3d250e1f-b16b-437f-bcf9-37f32011fcc6" />
+<img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/f54336a1-c554-45e1-99ae-a8397d4d8f8c" />
+<img width="1280" height="717" alt="image" src="https://github.com/user-attachments/assets/6c4d321a-307b-4ac7-8dcf-49bca5f5a343" />
+<img width="1280" height="712" alt="image" src="https://github.com/user-attachments/assets/90772084-cfe3-4c2c-881c-d72b98987786" />
+<img width="1280" height="908" alt="image" src="https://github.com/user-attachments/assets/456a1250-b416-4352-875c-e259f2ccacc1" />
 
-![2](https://github.com/user-attachments/assets/d7a26d9d-72f2-4978-ad45-6e7195acc5eb)
 
-![3](https://github.com/user-attachments/assets/2e57655e-bced-41c2-b151-7c2ebef32bb1)
 
-![4](https://github.com/user-attachments/assets/171878ca-184d-43aa-bf63-bb2eab607efb)
 
-![5](https://github.com/user-attachments/assets/888a934d-56a6-435c-826f-4942c3b67ec0)
+
+
+
+
+
+
 
 
 ## Sprint Review
