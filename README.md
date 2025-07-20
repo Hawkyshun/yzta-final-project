@@ -1,5 +1,3 @@
-<img width="1280" height="715" alt="image" src="https://github.com/user-attachments/assets/7528dafe-5eab-4c7b-b848-f4577d4bdf0d" /># yzta-final-project
-
 ## Grup Üyeleri (Grup 58)
 - Furkan Erdoğan
 - Sezin Yavuz
