@@ -1,3 +1,5 @@
+# yzta-final-project
+
 ## Grup Üyeleri (Grup 58)
 - Furkan Erdoğan
 - Sezin Yavuz
@@ -31,23 +33,28 @@ yzta-final-project/
 - **Yapay Zeka**: TensorFlow.js (planlanan)
 
 ## Product Backlog URL
-https://miro.com/app/board/uXjVIhWZIAU=/?share_link_id=937694695242
+[Sprint 1 Product Backlog](https://miro.com/app/board/uXjVIhWZIAU=/?share_link_id=937694695242)
 
+## Sprint Takip Tablosu
+
+| Sprint | Tarih | Durum | Ana Özellikler |
+|--------|-------|-------|----------------|
+| Sprint 1 | 1-2 Hafta | ✅ Tamamlandı | Proje seçimi, planlama, teknoloji kararları |
+| Sprint 2 | 3-4 Hafta | ✅ Tamamlandı | Frontend geliştirme, UI/UX tasarımı |
+| Sprint 3 | 5-6 Hafta | ⏳ Planlanan | Backend geliştirme, test entegrasyonu |
+| Sprint 4 | 7-8 Hafta | ⏳ Planlanan | AI entegrasyonu, final testler |
+
+---
 
 # Sprint 1
+**Tarih:** 1-2 Hafta  
+**Durum:** ✅ Tamamlandı
+
 ## Sprint Notları 
-User story'ler product backlogların içine yazılmıştır. 
-
-
-## Sprint içerisinde tamamlanması gereken puan:
-100 Puan
-
-## Puan Tamamlama Mantığı
-Backlog bir sonraki sprintlerin temelini oluşturacak şekilde düzenlendi. Tahmin edilen puan sayısına uygun şekilde görev dağıtımı yapıldı.
+User story'ler product backlogların içine yazılmıştır.
 
 ## Daily Scrum
-Toplantılar Whatsapp üzerinden yapıldı. Screenshotlar linktedir.
-[https://imgur.com/a/mOOsRRf](https://github.com/Hawkyshun/yzta-final-project/tree/main/Daily%20Scrum)
+Toplantılar Whatsapp üzerinden yapıldı. Screenshotlar [Daily Scrum klasöründe](https://github.com/Hawkyshun/yzta-final-project/tree/main/Daily%20Scrum) bulunmaktadır.
 
 ## Sprint Board Update
 ![image](https://github.com/user-attachments/assets/47414154-e6f8-42f2-bac3-e7e248a6d6a6)
@@ -72,14 +79,12 @@ Toplantılar Whatsapp üzerinden yapıldı. Screenshotlar linktedir.
 
 
 # Sprint 2
+**Tarih:** 3-4 Hafta  
+**Durum:** ✅ Tamamlandı
+
 ## Sprint Notları 
 User Storyler product backlog içine yazılmıştır. Tıklandığında açıklamaları okunabilmektedir.
-Kullanılacak teknolojilere karar verildi,
-- Frontend: React.js
-- Backend: Node.js
-- Veritabanı: (örn. MongoDB veya PostgreSQL)
-- Yapay Zeka: TensorFlow.js veya Python tabanlı bir model (API ile entegrasyon)
-- Diğer: Socket.io (gerçek zamanlı bildirimler için), JWT (kimlik doğrulama için)
+
 ## Planlanan Özellikler
 - Kullanıcı kaydı ve girişi (React + Node.js + JWT)
 - Kognitif testler (ör. Stroop Testi, N-back Testi, Hafıza Oyunları)
@@ -88,19 +93,14 @@ Kullanılacak teknolojilere karar verildi,
 - Sonuçların PDF olarak indirilmesi
 - Kullanıcı dostu, responsive arayüz
 
-## Sprint içerisinde tamamlanması gereken puan:
-116 Puan
 
-## Puan Tamamlama Mantığı
-Backlog bir sonraki sprintlerin temelini oluşturacak şekilde düzenlendi. Tahmin edilen puan sayısına uygun şekilde görev dağıtımı yapıldı.
 ## Product Backlog URL
-https://miro.com/welcomeonboard/bGgxQlhIVTNNdkxXM1lTcjNCdWVZOWplMGFOVmJmTzBCQ3ZvY2J2anRRb3hyMGlKREdRRDhjOFBLU1Q5dldkTkludEpJVFRuQStLNkhxYzBUTlkwK005dnFoWU9tRlFHWTJkMy9Qb0dZNTI3MVgvSkVVakdZNUNNUlFxcXIzemtnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=88465932035
+[Sprint 2 Product Backlog](https://miro.com/welcomeonboard/bGgxQlhIVTNNdkxXM1lTcjNCdWVZOWplMGFOVmJmTzBCQ3ZvY2J2anRRb3hyMGlKREdRRDhjOFBLU1Q5dldkTkludEpJVFRuQStLNkhxYzBUTlkwK005dnFoWU9tRlFHWTJkMy9Qb0dZNTI3MVgvSkVVakdZNUNNUlFxcXIzemtnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=88465932035)
 ## Daily Scrum
-Toplantılar Whatsapp üzerinden yapıldı. Screenshotlar linktedir.
+Toplantılar Whatsapp üzerinden yapıldı. Screenshotlar [Daily Scrum klasöründe](https://github.com/Hawkyshun/yzta-final-project/tree/main/Daily%20Scrum) bulunmaktadır.
 
 ## Sprint Board Update
-
-
+Sprint 2 sürecinde geliştirilen özellikler ve tamamlanan görevler board üzerinde takip edildi.
 
 ## Ekran Görüntüleri
 
@@ -112,17 +112,6 @@ Toplantılar Whatsapp üzerinden yapıldı. Screenshotlar linktedir.
 <img width="1280" height="717" alt="image" src="https://github.com/user-attachments/assets/6c4d321a-307b-4ac7-8dcf-49bca5f5a343" />
 <img width="1280" height="712" alt="image" src="https://github.com/user-attachments/assets/90772084-cfe3-4c2c-881c-d72b98987786" />
 <img width="1280" height="908" alt="image" src="https://github.com/user-attachments/assets/456a1250-b416-4352-875c-e259f2ccacc1" />
-
-
-
-
-
-
-
-
-
-
-
 
 ## Sprint Review
 - Landing page, kullanıcı girişi, şifre sıfırlama ve test listesi sayfası başarıyla tasarlandı.
@@ -137,3 +126,8 @@ Toplantılar Whatsapp üzerinden yapıldı. Screenshotlar linktedir.
 - Zaman tahminleri bazı görevlerde fazla iyimserdi, planlama daha gerçekçi yapılmalı.
 - Geliştirilen bileşenlerin testleri sprint sonunda değil süreç içinde yapılmalı.
 - Görsel ve tıbbi içerikler için erken geri bildirim alınması süreci hızlandırabilir.
+
+---
+
+# Sprint 3
+**Durum:** ⏳ Henüz başlanmamıştır.
