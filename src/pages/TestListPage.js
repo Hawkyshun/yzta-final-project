@@ -1,6 +1,9 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 
 export default function TestListPage() {
+  const navigate = useNavigate();
+
   return (
     <div className="testlist-container">
       <h1>Evde Bilişsel Tarama</h1>
@@ -10,43 +13,45 @@ export default function TestListPage() {
       <div className="test-list">
         <div className="test-item">
           <span>
-            <span role="img" aria-label="saat" style={{marginRight: 12}}>🕒</span>
+            <span role="img" aria-label="saat" style={{ marginRight: 12 }}>🕒</span>
             Zaman Yer Yönelimi Testi
           </span>
-          <button className="test-btn">Başlat</button>
+          <button className="test-btn" onClick={() => navigate("/tests/orientation")}>
+            Başlat
+          </button>
         </div>
         <div className="test-item">
           <span>
-            <span role="img" aria-label="beyin" style={{marginRight: 12}}>🧠</span>
+            <span role="img" aria-label="beyin" style={{ marginRight: 12 }}>🧠</span>
             Bellek Testi
           </span>
           <button className="test-btn">Başlat</button>
         </div>
         <div className="test-item">
           <span>
-            <span role="img" aria-label="ünlem" style={{marginRight: 12}}>❗</span>
+            <span role="img" aria-label="ünlem" style={{ marginRight: 12 }}>❗</span>
             Dikkat ve Konsantrasyon Testi
           </span>
           <button className="test-btn">Başlat</button>
         </div>
         <div className="test-item">
           <span>
-            <span role="img" aria-label="kalem" style={{marginRight: 12}}>✏️</span>
+            <span role="img" aria-label="kalem" style={{ marginRight: 12 }}>✏️</span>
             Dil ve Yazı Testi
           </span>
           <button className="test-btn">Başlat</button>
         </div>
         <div className="test-item">
           <span>
-            <span role="img" aria-label="göz" style={{marginRight: 12}}>👁️</span>
+            <span role="img" aria-label="göz" style={{ marginRight: 12 }}>👁️</span>
             Görsel Algısal Test
           </span>
           <button className="test-btn">Başlat</button>
         </div>
       </div>
-      <div className="test-item" style={{marginTop: 32}}>
+      <div className="test-item" style={{ marginTop: 32 }}>
         <span>
-          <span role="img" aria-label="sonuçlar" style={{marginRight: 12}}>📊</span>
+          <span role="img" aria-label="sonuçlar" style={{ marginRight: 12 }}>📊</span>
           Sonuçlarım
         </span>
         <button className="test-btn">Göster</button>

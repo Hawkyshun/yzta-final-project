@@ -1,0 +1,81 @@
+.test-form {
+  font-family: "Segoe UI", sans-serif;
+  padding: 2rem;
+  background-color: #f7f9fc;
+  border-radius: 8px;
+}
+.test-title {
+  font-size: 2.2rem;
+  font-weight: 700;
+  text-align: center;
+  font-family: "Segoe UI", sans-serif;
+  color: #1e293b;
+  margin-bottom: 2rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+.step-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+  color: #1e293b;
+  text-align: center;
+}
+
+.question-card {
+  background-color: #f8fafc;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  margin-bottom: 2rem;
+}
+
+
+.question-card {
+  background-color: #f8fafc;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  margin-bottom: 2rem;
+}
+
+.test-form h1 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  color: #222;
+}
+
+.test-form label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  color: #333;
+}
+
+.test-form select,
+.test-form input[type="text"] {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  margin-bottom: 1.5rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background-color: white;
+}
+
+.test-form button {
+  background-color: #2563eb;
+  color: white;
+  padding: 0.75rem 2rem;
+  font-size: 1.1rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.test-form button:hover {
+  background-color: #1d4ed8;
+}

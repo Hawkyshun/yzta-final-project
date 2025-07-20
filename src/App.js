@@ -4,6 +4,8 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import LandingPage from "./pages/LandingPage";
 import AuthPage from "./pages/AuthPage";
 import TestListPage from "./pages/TestListPage";
+import OrientationTestPage from "./pages/OrientationTestPage";
+
 
 function App() {
   return (
@@ -16,6 +18,7 @@ function App() {
         <Route path="/forgot-password" element={<ForgotPasswordPage />} />
         <Route path="/register" element={<RegisterPage />} />
         <Route path="/tests" element={<TestListPage />} />
+        <Route path="/tests/orientation" element={<OrientationTestPage />} />
       </Routes>
     </Router>
   );
