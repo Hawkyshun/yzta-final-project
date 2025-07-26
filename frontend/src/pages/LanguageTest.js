@@ -7,11 +7,20 @@ export default function LanguageTest() {
   const navigate = useNavigate();
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [score, setScore] = useState(0);
-  const [timeLeft, setTimeLeft] = useState(900); // 15 dakika
+  const [timeLeft, setTimeLeft] = useState(600); // 10 dakika
   const [userAnswers, setUserAnswers] = useState({});
   const [testCompleted, setTestCompleted] = useState(false);
   const [testStarted, setTestStarted] = useState(false);
   const [toast, setToast] = useState(null);
+
+  // Seçili cevabı state'te tut
+  const [selectedOption, setSelectedOption] = useState(null);
+  const [isOptionDisabled, setIsOptionDisabled] = useState(false);
+
+  useEffect(() => {
+    setSelectedOption(null);
+    setIsOptionDisabled(false);
+  }, [currentQuestion]);
 
   // Test soruları
   const questions = [
@@ -42,10 +51,10 @@ export default function LanguageTest() {
     {
       id: 4,
       type: "word-category",
-      question: "Aşağıdaki kelimelerden hangisi diğerleriyle aynı kategoride değildir?",
+      question: "Aşağıdaki meyve ve sebzelerden hangisi diğerleriyle aynı kategoride değildir?",
       options: ["Elma", "Armut", "Muz", "Havuç"],
       correct: 3,
-      explanation: "Havuç sebze, diğerleri meyvedir."
+      explanation: "Elma, Armut ve Muz meyvedir. Havuç ise sebzedir."
     },
     {
       id: 5,
@@ -104,6 +113,14 @@ export default function LanguageTest() {
     },
     {
       id: 10,
+      type: "word-category",
+      question: "'Elma' hangi kategoride yer alır?",
+      options: ["Sebze", "Meyve", "İçecek", "Tatlı"],
+      correct: 1,
+      explanation: "Elma, meyve kategorisinde yer alır."
+    },
+    {
+      id: 11,
       type: "writing",
       question: "Aşağıdaki resmi inceleyin ve bu resim hakkında en az 5 cümlelik bir paragraf yazın. Yazınızda resmin ne olduğunu, nerede çekildiğini ve size ne hissettirdiğini anlatın:",
       image: "https://img.icons8.com/ios-filled/100/000000/nature.png",
@@ -134,11 +151,21 @@ export default function LanguageTest() {
       setScore(prev => prev + 1);
     }
 
-    if (currentQuestion < questions.length - 1) {
-      setCurrentQuestion(prev => prev + 1);
-    } else {
-      finishTest();
-    }
+    // Otomatik ilerleme - 1 saniye sonra
+    setTimeout(() => {
+      if (currentQuestion < questions.length - 1) {
+        setCurrentQuestion(prev => prev + 1);
+      } else {
+        finishTest();
+      }
+    }, 1000);
+  };
+
+  const handleOptionClick = (index) => {
+    if (isOptionDisabled) return;
+    setSelectedOption(index);
+    setIsOptionDisabled(true);
+    handleAnswer(index);
   };
 
   const [writingText, setWritingText] = useState("");
@@ -168,6 +195,11 @@ export default function LanguageTest() {
 
   const finishTest = () => {
     setTestCompleted(true);
+    
+    // 5 saniye sonra ana sayfaya yönlendir
+    setTimeout(() => {
+      navigate("/test-list");
+    }, 5000);
   };
 
   const formatTime = (seconds) => {
@@ -224,7 +256,7 @@ export default function LanguageTest() {
             <div style={{backgroundColor: 'var(--card-bg)', padding: '20px', borderRadius: '12px', border: '1px solid var(--border-color)', marginBottom: '30px'}}>
               <h3 style={{color: 'var(--text-primary)', marginBottom: '15px'}}>Test Hakkında:</h3>
               <ul style={{textAlign: 'left', margin: 0, paddingLeft: '20px'}}>
-                <li>⏱️ Süre: 15 dakika</li>
+                <li>⏱️ Süre: 10 dakika</li>
                 <li>📝 Toplam: 10 soru</li>
                 <li>📚 Konular: Kelime bilgisi, dil bilgisi, okuma anlama, yazma</li>
                 <li>🎯 Son soru: Açık uçlu yazma görevi</li>
@@ -437,8 +469,9 @@ export default function LanguageTest() {
               {currentQ.options.map((option, index) => (
                 <button
                   key={index}
-                  onClick={() => handleAnswer(index)}
-                  className="option-btn"
+                  onClick={() => handleOptionClick(index)}
+                  className={`option-btn${selectedOption === index ? ' selected' : ''}`}
+                  disabled={isOptionDisabled}
                 >
                   {option}
                 </button>

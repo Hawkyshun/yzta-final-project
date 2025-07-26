@@ -10,6 +10,12 @@ export default function TestListPage() {
   const handleTestClick = (testType) => {
     if (testType === "Dil ve Yazı") {
       navigate("/test/language");
+    } else if (testType === "Bellek") {
+      navigate("/test/memory");
+    } else if (testType === "Dikkat ve Konsantrasyon") {
+      navigate("/test/attention");
+    } else if (testType === "Zaman Yer Yönelimi") {
+      navigate("/test/orientation");
     } else {
       setToast({
         message: `${testType} testi henüz geliştirilmedi. Yakında eklenecek!`,
@@ -19,11 +25,7 @@ export default function TestListPage() {
   };
 
   const handleResultsClick = () => {
-    setToast({
-      message: "Sonuçlar sayfası yakında eklenecek!",
-      type: "info"
-    });
-    // navigate("/results");
+    navigate("/results");
   };
 
   const handleLogout = () => {

@@ -304,6 +304,20 @@ button:hover {
   color: #1e40af;
 }
 
+.option-btn.selected {
+  background: linear-gradient(90deg, #2563eb 60%, #60a5fa 100%);
+  color: #fff;
+  border: 2px solid #2563eb;
+  box-shadow: 0 2px 12px rgba(37,99,235,0.15);
+  font-weight: 700;
+  transform: scale(1.03);
+}
+
+.option-btn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
 .writing-question {
   text-align: center;
 }
@@ -432,6 +446,20 @@ button:hover {
   background: #9ca3af;
 }
 
+/* Kart ve başlıklar için modern gölge ve radius */
+.question-container, .results-section, .score-display {
+  box-shadow: 0 8px 32px rgba(37,99,235,0.10), 0 1.5px 6px rgba(0,0,0,0.04);
+  border-radius: 18px;
+}
+
+.test-header h1 {
+  font-size: 2.7rem;
+  font-weight: 800;
+  letter-spacing: -1px;
+  color: #2563eb;
+  margin-bottom: 18px;
+}
+
 /* Responsive iyileştirmeler */
 @media (max-width: 768px) {
   .main-container h1 {
@@ -458,8 +486,7 @@ button:hover {
   }
   
   .question-container {
-    padding: 20px;
-    margin: 10px;
+    padding: 14px;
   }
   
   .test-info {
@@ -469,6 +496,10 @@ button:hover {
   
   .test-info span {
     font-size: 0.9rem;
+  }
+  .option-btn, .option-btn.selected {
+    font-size: 1.2rem;
+    padding: 18px 12px;
   }
 }
 
