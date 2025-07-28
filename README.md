@@ -61,15 +61,139 @@ yzta-final-project/
 
 ### Sprint Takip Tablosu
 
-| Sprint | Tarih | Durum | Ana Özellikler |
-|--------|-------|-------|----------------|
-| Sprint 1 | 1-2 Hafta | ✅ Tamamlandı | Proje seçimi, planlama, teknoloji kararları |
-| Sprint 2 | 3-4 Hafta | ✅ Tamamlandı | Frontend geliştirme, UI/UX tasarımı |
-| Sprint 3 | 5-6 Hafta | ✅ Tamamlandı | Backend geliştirme, AI entegrasyonu, PDF rapor |
-| Sprint 4 | 7-8 Hafta | ⏳ Planlanan | Test ve optimizasyon, deployment |
+| Sprint | Durum | Ana Özellikler |
+|--------|-------|----------------|
+| Sprint 1 | ✅ Tamamlandı | Proje seçimi, planlama, teknoloji kararları |
+| Sprint 2 | ✅ Tamamlandı | Frontend geliştirme, UI/UX tasarımı |
+| Sprint 3 | ... | Backend geliştirme, AI entegrasyonu, PDF rapor, Optimizasyon |
+
 
 ### Daily Scrum Toplantıları
 Toplantılar Whatsapp üzerinden yapıldı. Screenshotlar [Daily Scrum klasöründe](./Daily%20Scrum/) bulunmaktadır.
+
+
+# Sprint Geçmişi ve Notlar
+
+## Sprint 1
+**Tarih:** 1-2 Hafta  
+**Durum:** ✅ Tamamlandı
+
+## Product Backlog URL
+[Sprint 1 Product Backlog](https://miro.com/app/board/uXjVIhWZIAU=/?share_link_id=937694695242)
+
+### Sprint Notları 
+User story'ler product backlogların içine yazılmıştır.
+
+### Daily Scrum
+Toplantılar Whatsapp üzerinden yapıldı. Screenshotlar [Daily Scrum klasöründe](./Daily%20Scrum/) bulunmaktadır.
+
+### Sprint Board Update
+![Sprint 1 Board](https://github.com/user-attachments/assets/47414154-e6f8-42f2-bac3-e7e248a6d6a6)
+
+### Ekran Görüntüleri
+![Sprint 1 Screenshot 1](https://github.com/user-attachments/assets/9e75a06a-f053-471e-be02-38fd145514a3)
+![Sprint 1 Screenshot 2](https://github.com/user-attachments/assets/abfe703d-842a-4a2d-938e-908f545aa022)
+
+### Sprint Review
+- Proje oy birliğiyle seçildi.
+- Herkes kendisine ait görevlerle ilgili fikrini belirtti.
+- Projenin devamı için yeni fikirler sunuldu.
+- Potansiyel riskler tartışıldı.
+
+### Sprint Retrospective
+- Toplantı günleri ve saatleri belirlendi.
+- Takımın iletişim sıklığı ve toplantı verimliliği değerlendirildi.
+- Görevler arası önceliklendirme yapılacak.
+- Sprint boyunca karşılaşılan zorluklar tartışıldı.
+
+---
+
+## Sprint 2
+**Tarih:** 3-4 Hafta  
+**Durum:** ✅ Tamamlandı
+
+### Sprint Notları 
+User Storyler product backlog içine yazılmıştır. Tıklandığında açıklamaları okunabilmektedir.
+
+### Planlanan Özellikler
+- Kullanıcı kaydı ve girişi (React + Node.js + JWT)
+- Kognitif testler (ör. Stroop Testi, N-back Testi, Hafıza Oyunları)
+- Test sonuçlarının görselleştirilmesi (grafikler, geçmiş karşılaştırması)
+- Yapay zeka ile ön değerlendirme ve öneriler (Test sonuçlarından risk analizi yapan bir model)
+- Sonuçların PDF olarak indirilmesi
+- Kullanıcı dostu, responsive arayüz
+
+## Product Backlog URL
+[Sprint 2 Product Backlog](https://miro.com/welcomeonboard/bGgxQlhIVTNNdkxXM1lTcjNCdWVZOWplMGFOVmJmTzBCQ3ZvY2J2anRRb3hyMGlKREdRRDhjOFBLU1Q5dldkTkludEpJVFRuQStLNkhxYzBUTlkwK005dnFoWU9tRlFHWTJkMy9Qb0dZNTI3MVgvSkVVakdZNUNNUlFxcXIzemtnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=88465932035)
+
+### Daily Scrum
+Toplantılar Whatsapp üzerinden yapıldı. Screenshotlar [Daily Scrum klasöründe](./Daily%20Scrum/) bulunmaktadır.
+
+### Sprint Board Update
+Sprint 2 sürecinde geliştirilen özellikler ve tamamlanan görevler board üzerinde takip edildi.
+
+### Ekran Görüntüleri
+
+<img width="1280" height="685" alt="image" src="https://github.com/user-attachments/assets/7055ed54-d9f6-4585-aabe-380c62bb7643" />
+<img width="1280" height="715" alt="image" src="https://github.com/user-attachments/assets/5e9dac15-9c3a-451a-944c-b18ca704a449" />
+<img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/9bf92642-d0ff-4faf-8c60-411120ef6a60" />
+<img width="1280" height="711" alt="image" src="https://github.com/user-attachments/assets/3d250e1f-b16b-437f-bcf9-37f32011fcc6" />
+<img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/f54336a1-c554-45e1-99ae-a8397d4d8f8c" />
+<img width="1280" height="717" alt="image" src="https://github.com/user-attachments/assets/6c4d321a-307b-4ac7-8dcf-49bca5f5a343" />
+<img width="1280" height="712" alt="image" src="https://github.com/user-attachments/assets/90772084-cfe3-4c2c-881c-d72b98987786" />
+<img width="1280" height="1000" alt="image" src="https://github.com/user-attachments/assets/456a1250-b416-4352-875c-e259f2ccacc1" />
+<img width="1280" height="1000" alt="Ekran Resmi 2025-07-20 23 28 45" src="https://github.com/user-attachments/assets/a540b9ad-bf25-4941-b3a3-5b5c793693e3" />
+<img width="1280" height="1000" alt="Ekran Resmi 2025-07-20 23 30 01" src="https://github.com/user-attachments/assets/61f61439-ad7c-449c-b1e4-c1b80e563dd2" />
+<img width="1280" height="1000" alt="Ekran Resmi 2025-07-20 23 36 42" src="https://github.com/user-attachments/assets/d89ccb1e-13e5-4d7c-b431-d30b81b4f47c" />
+<img width="1280" height="1000" alt="Ekran Resmi 2025-07-20 23 36 50" src="https://github.com/user-attachments/assets/44834edb-8740-4f8d-bdbb-b75f47435eb5" />
+
+### Sprint Review
+- Landing page, kullanıcı girişi, şifre sıfırlama ve test listesi sayfası başarıyla tasarlandı.
+- Testler temel işlevsellikle geliştirildi.
+- Tüm testlerin tam skor mekanizması tamamlanmadı, 3. sprintte odaklanılacak.
+- Kullanıcı arayüzü anlaşılabilir ve sade olacak şekilde optimize edildi.
+- Geri bildirimler doğrultusunda açık-koyu tema eklendi.
+
+### Sprint Retrospective
+- Daha sık ve kısa toplantılar yapma kararı alındı, iletişimde gecikmeler yaşandı.
+- Görev dağılımı önceki sprinte göre daha netti, ekip içi işbirliği arttı.
+- Zaman tahminleri bazı görevlerde fazla iyimserdi, planlama daha gerçekçi yapılmalı.
+- Geliştirilen bileşenlerin testleri sprint sonunda değil süreç içinde yapılmalı.
+- Görsel ve tıbbi içerikler için erken geri bildirim alınması süreci hızlandırabilir.
+
+---
+
+## Sprint 3
+**Tarih:** 5-6 Hafta  
+**Durum:** ✅ Tamamlandı
+
+### Sprint Notları
+- Backend geliştirme tamamlandı
+- AI entegrasyonu (Google Gemini) başarıyla entegre edildi
+- PDF rapor sistemi geliştirildi
+- Test skorlama mekanizması tamamlandı
+- Kullanıcı sonuçları ve geçmiş takibi eklendi
+
+### Ekran Görüntüleri
+> Sprint 3 ekran görüntüleri için [Daily Scrum klasörüne](./Daily%20Scrum/) bakınız.
+
+### Sprint Review
+- Backend API başarıyla geliştirildi ve test edildi
+- AI analiz sistemi entegre edildi
+- PDF rapor sistemi çalışır durumda
+- Kullanıcı deneyimi iyileştirildi
+
+### Sprint Retrospective
+- Backend geliştirme süreci planlandığı gibi tamamlandı
+- AI entegrasyonu için ek araştırma gerekli oldu
+- Test süreçleri daha sistematik yapılmalı
+
+### Sprint 3 için Ek Planlanan Özellikler
+- Test ve optimizasyon
+- Dokümantasyon tamamlama
+- Deployment hazırlıkları
+- Final testler ve hata düzeltmeleri
+
 
 ---
 
@@ -232,124 +356,3 @@ MIT
 
 ---
 
-# Sprint Geçmişi ve Notlar
-
-## Sprint 1
-**Tarih:** 1-2 Hafta  
-**Durum:** ✅ Tamamlandı
-
-## Product Backlog URL
-[Sprint 1 Product Backlog](https://miro.com/app/board/uXjVIhWZIAU=/?share_link_id=937694695242)
-
-### Sprint Notları 
-User story'ler product backlogların içine yazılmıştır.
-
-### Daily Scrum
-Toplantılar Whatsapp üzerinden yapıldı. Screenshotlar [Daily Scrum klasöründe](./Daily%20Scrum/) bulunmaktadır.
-
-### Sprint Board Update
-![Sprint 1 Board](https://github.com/user-attachments/assets/47414154-e6f8-42f2-bac3-e7e248a6d6a6)
-
-### Ekran Görüntüleri
-![Sprint 1 Screenshot 1](https://github.com/user-attachments/assets/9e75a06a-f053-471e-be02-38fd145514a3)
-![Sprint 1 Screenshot 2](https://github.com/user-attachments/assets/abfe703d-842a-4a2d-938e-908f545aa022)
-
-### Sprint Review
-- Proje oy birliğiyle seçildi.
-- Herkes kendisine ait görevlerle ilgili fikrini belirtti.
-- Projenin devamı için yeni fikirler sunuldu.
-- Potansiyel riskler tartışıldı.
-
-### Sprint Retrospective
-- Toplantı günleri ve saatleri belirlendi.
-- Takımın iletişim sıklığı ve toplantı verimliliği değerlendirildi.
-- Görevler arası önceliklendirme yapılacak.
-- Sprint boyunca karşılaşılan zorluklar tartışıldı.
-
----
-
-## Sprint 2
-**Tarih:** 3-4 Hafta  
-**Durum:** ✅ Tamamlandı
-
-### Sprint Notları 
-User Storyler product backlog içine yazılmıştır. Tıklandığında açıklamaları okunabilmektedir.
-
-### Planlanan Özellikler
-- Kullanıcı kaydı ve girişi (React + Node.js + JWT)
-- Kognitif testler (ör. Stroop Testi, N-back Testi, Hafıza Oyunları)
-- Test sonuçlarının görselleştirilmesi (grafikler, geçmiş karşılaştırması)
-- Yapay zeka ile ön değerlendirme ve öneriler (Test sonuçlarından risk analizi yapan bir model)
-- Sonuçların PDF olarak indirilmesi
-- Kullanıcı dostu, responsive arayüz
-
-## Product Backlog URL
-[Sprint 2 Product Backlog](https://miro.com/welcomeonboard/bGgxQlhIVTNNdkxXM1lTcjNCdWVZOWplMGFOVmJmTzBCQ3ZvY2J2anRRb3hyMGlKREdRRDhjOFBLU1Q5dldkTkludEpJVFRuQStLNkhxYzBUTlkwK005dnFoWU9tRlFHWTJkMy9Qb0dZNTI3MVgvSkVVakdZNUNNUlFxcXIzemtnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=88465932035)
-
-### Daily Scrum
-Toplantılar Whatsapp üzerinden yapıldı. Screenshotlar [Daily Scrum klasöründe](./Daily%20Scrum/) bulunmaktadır.
-
-### Sprint Board Update
-Sprint 2 sürecinde geliştirilen özellikler ve tamamlanan görevler board üzerinde takip edildi.
-
-### Ekran Görüntüleri
-
-<img width="1280" height="685" alt="image" src="https://github.com/user-attachments/assets/7055ed54-d9f6-4585-aabe-380c62bb7643" />
-<img width="1280" height="715" alt="image" src="https://github.com/user-attachments/assets/5e9dac15-9c3a-451a-944c-b18ca704a449" />
-<img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/9bf92642-d0ff-4faf-8c60-411120ef6a60" />
-<img width="1280" height="711" alt="image" src="https://github.com/user-attachments/assets/3d250e1f-b16b-437f-bcf9-37f32011fcc6" />
-<img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/f54336a1-c554-45e1-99ae-a8397d4d8f8c" />
-<img width="1280" height="717" alt="image" src="https://github.com/user-attachments/assets/6c4d321a-307b-4ac7-8dcf-49bca5f5a343" />
-<img width="1280" height="712" alt="image" src="https://github.com/user-attachments/assets/90772084-cfe3-4c2c-881c-d72b98987786" />
-<img width="1280" height="1000" alt="image" src="https://github.com/user-attachments/assets/456a1250-b416-4352-875c-e259f2ccacc1" />
-<img width="1280" height="1000" alt="Ekran Resmi 2025-07-20 23 28 45" src="https://github.com/user-attachments/assets/a540b9ad-bf25-4941-b3a3-5b5c793693e3" />
-<img width="1280" height="1000" alt="Ekran Resmi 2025-07-20 23 30 01" src="https://github.com/user-attachments/assets/61f61439-ad7c-449c-b1e4-c1b80e563dd2" />
-<img width="1280" height="1000" alt="Ekran Resmi 2025-07-20 23 36 42" src="https://github.com/user-attachments/assets/d89ccb1e-13e5-4d7c-b431-d30b81b4f47c" />
-<img width="1280" height="1000" alt="Ekran Resmi 2025-07-20 23 36 50" src="https://github.com/user-attachments/assets/44834edb-8740-4f8d-bdbb-b75f47435eb5" />
-
-### Sprint Review
-- Landing page, kullanıcı girişi, şifre sıfırlama ve test listesi sayfası başarıyla tasarlandı.
-- Testler temel işlevsellikle geliştirildi.
-- Tüm testlerin tam skor mekanizması tamamlanmadı, 3. sprintte odaklanılacak.
-- Kullanıcı arayüzü anlaşılabilir ve sade olacak şekilde optimize edildi.
-- Geri bildirimler doğrultusunda açık-koyu tema eklendi.
-
-### Sprint Retrospective
-- Daha sık ve kısa toplantılar yapma kararı alındı, iletişimde gecikmeler yaşandı.
-- Görev dağılımı önceki sprinte göre daha netti, ekip içi işbirliği arttı.
-- Zaman tahminleri bazı görevlerde fazla iyimserdi, planlama daha gerçekçi yapılmalı.
-- Geliştirilen bileşenlerin testleri sprint sonunda değil süreç içinde yapılmalı.
-- Görsel ve tıbbi içerikler için erken geri bildirim alınması süreci hızlandırabilir.
-
----
-
-## Sprint 3
-**Tarih:** 5-6 Hafta  
-**Durum:** ✅ Tamamlandı
-
-### Sprint Notları
-- Backend geliştirme tamamlandı
-- AI entegrasyonu (Google Gemini) başarıyla entegre edildi
-- PDF rapor sistemi geliştirildi
-- Test skorlama mekanizması tamamlandı
-- Kullanıcı sonuçları ve geçmiş takibi eklendi
-
-### Ekran Görüntüleri
-> Sprint 3 ekran görüntüleri için [Daily Scrum klasörüne](./Daily%20Scrum/) bakınız.
-
-### Sprint Review
-- Backend API başarıyla geliştirildi ve test edildi
-- AI analiz sistemi entegre edildi
-- PDF rapor sistemi çalışır durumda
-- Kullanıcı deneyimi iyileştirildi
-
-### Sprint Retrospective
-- Backend geliştirme süreci planlandığı gibi tamamlandı
-- AI entegrasyonu için ek araştırma gerekli oldu
-- Test süreçleri daha sistematik yapılmalı
-
-### Sprint 3 için Ek Planlanan Özellikler
-- Test ve optimizasyon
-- Dokümantasyon tamamlama
-- Deployment hazırlıkları
-- Final testler ve hata düzeltmeleri
