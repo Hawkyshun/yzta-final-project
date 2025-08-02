@@ -137,15 +137,31 @@ Sprint 2 sürecinde geliştirilen özellikler ve tamamlanan görevler board üze
 <img width="1280" height="685" alt="image" src="https://github.com/user-attachments/assets/7055ed54-d9f6-4585-aabe-380c62bb7643" />
 <img width="1280" height="715" alt="image" src="https://github.com/user-attachments/assets/5e9dac15-9c3a-451a-944c-b18ca704a449" />
 <img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/9bf92642-d0ff-4faf-8c60-411120ef6a60" />
+<img width="1280" height="764" alt="Ekran Resmi 2025-08-02 19 26 16" src="https://github.com/user-attachments/assets/eb35dbca-2a69-441b-9a91-ba92c1c5b8a4" />
+<img width="1280" height="762" alt="Ekran Resmi 2025-08-02 19 26 32" src="https://github.com/user-attachments/assets/9e2babe5-6631-4843-a870-de3adcc5b31b" />
+<img width="1280" height="763" alt="Ekran Resmi 2025-08-02 19 27 41" src="https://github.com/user-attachments/assets/304038e2-5bf7-4c85-8c05-56cfcc5f1c97" />
+<img width="1280" height="757" alt="Ekran Resmi 2025-08-02 19 27 52" src="https://github.com/user-attachments/assets/d2e728c9-11d7-43a3-83a4-03f1c76985f8" />
+<img width="1280" height="771" alt="Ekran Resmi 2025-08-02 19 28 39" src="https://github.com/user-attachments/assets/8acfdcf1-8c04-4b09-a983-ed51d12842e1" />
+<img width="1280" height="632" alt="Ekran Resmi 2025-08-02 19 31 35" src="https://github.com/user-attachments/assets/37bb6afb-3935-4b9c-8af7-b4a4af277596" />
+<img width="1280" height="481" alt="Ekran Resmi 2025-08-02 19 32 06" src="https://github.com/user-attachments/assets/b8cdad5f-1561-401e-8003-7dcb975f2b46" />
+<img width="1280" height="593" alt="Ekran Resmi 2025-08-02 19 32 27" src="https://github.com/user-attachments/assets/913fde65-2865-4047-99fc-c6e987770256" />
+<img width="1280" height="596" alt="Ekran Resmi 2025-08-02 19 34 50" src="https://github.com/user-attachments/assets/19af549f-0153-464d-9ac3-4bdbbfd44234" />
+<img width="1280" height="729" alt="Ekran Resmi 2025-08-02 19 36 27" src="https://github.com/user-attachments/assets/db15d47b-1f49-4526-b316-beec3bc6f11f" />
+<img width="1280" height="734" alt="Ekran Resmi 2025-08-02 19 36 53" src="https://github.com/user-attachments/assets/862de4a1-14c9-44a9-b076-691cd03efd8a" />
+<img width="1280" height="734" alt="Ekran Resmi 2025-08-02 19 37 05" src="https://github.com/user-attachments/assets/6ed236ad-54d7-4c6e-9afb-9f893b8f7889" />
+<img width="1280" height="736" alt="Ekran Resmi 2025-08-02 19 37 27" src="https://github.com/user-attachments/assets/b1090c86-8316-441c-bea2-2decfa231a5b" />
+<img width="1280" height="687" alt="Ekran Resmi 2025-08-02 19 37 45" src="https://github.com/user-attachments/assets/7d4af650-fd22-47cc-831c-9722eecf0073" />
+
+
+
 <img width="1280" height="711" alt="image" src="https://github.com/user-attachments/assets/3d250e1f-b16b-437f-bcf9-37f32011fcc6" />
 <img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/f54336a1-c554-45e1-99ae-a8397d4d8f8c" />
 <img width="1280" height="717" alt="image" src="https://github.com/user-attachments/assets/6c4d321a-307b-4ac7-8dcf-49bca5f5a343" />
 <img width="1280" height="712" alt="image" src="https://github.com/user-attachments/assets/90772084-cfe3-4c2c-881c-d72b98987786" />
 <img width="1280" height="1000" alt="image" src="https://github.com/user-attachments/assets/456a1250-b416-4352-875c-e259f2ccacc1" />
-<img width="1280" height="1000" alt="Ekran Resmi 2025-07-20 23 28 45" src="https://github.com/user-attachments/assets/a540b9ad-bf25-4941-b3a3-5b5c793693e3" />
-<img width="1280" height="1000" alt="Ekran Resmi 2025-07-20 23 30 01" src="https://github.com/user-attachments/assets/61f61439-ad7c-449c-b1e4-c1b80e563dd2" />
-<img width="1280" height="1000" alt="Ekran Resmi 2025-07-20 23 36 42" src="https://github.com/user-attachments/assets/d89ccb1e-13e5-4d7c-b431-d30b81b4f47c" />
-<img width="1280" height="1000" alt="Ekran Resmi 2025-07-20 23 36 50" src="https://github.com/user-attachments/assets/44834edb-8740-4f8d-bdbb-b75f47435eb5" />
+<img width="1280" height="761" alt="Ekran Resmi 2025-08-02 19 41 18" src="https://github.com/user-attachments/assets/0d310b48-141c-4c0c-acc7-7430d0567dc3" />
+<img width="1280" height="773" alt="Ekran Resmi 2025-08-02 19 41 32" src="https://github.com/user-attachments/assets/bbf56d05-91af-4834-8872-be2461965ce1" />
+<img width="1280" height="770" alt="Ekran Resmi 2025-08-02 19 42 01" src="https://github.com/user-attachments/assets/31a25b8f-a08e-4412-8903-3630b483ee3e" />
 
 ### Sprint Review
 - Landing page, kullanıcı girişi, şifre sıfırlama ve test listesi sayfası başarıyla tasarlandı.
