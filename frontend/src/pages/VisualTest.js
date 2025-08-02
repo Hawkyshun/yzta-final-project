@@ -183,28 +183,31 @@ export default function VisualTest() {
             <div style={{ backgroundColor: '#f8fafc', padding: '15px', borderRadius: '8px' }}>
               <h4 style={{ color: '#1e40af', marginBottom: '10px' }}>Şekil Algısı</h4>
               <ul style={{ listStyle: 'none', padding: 0 }}>
-                <li>✅ Şekil eşleştirme: {userAnswers[0] === visualQuestions[0].correct ? "Doğru" : "Yanlış"}</li>
-                <li>✅ Görsel farklılık: {userAnswers[1] === visualQuestions[1].correct ? "Doğru" : "Yanlış"}</li>
-                <li>✅ Desen tamamlama: {userAnswers[2] === visualQuestions[2].correct ? "Doğru" : "Yanlış"}</li>
+                <li>{userAnswers[0] === visualQuestions[0].correct ? "✅" : "❌"} Şekil eşleştirme</li>
+                <li>{userAnswers[1] === visualQuestions[1].correct ? "✅" : "❌"} Görsel farklılık</li>
+                <li>{userAnswers[2] === visualQuestions[2].correct ? "✅" : "❌"} Desen tamamlama</li>
               </ul>
             </div>
+
             <div style={{ backgroundColor: '#f8fafc', padding: '15px', borderRadius: '8px' }}>
               <h4 style={{ color: '#1e40af', marginBottom: '10px' }}>Sıralama ve Gruplama</h4>
               <ul style={{ listStyle: 'none', padding: 0 }}>
-                <li>✅ Görsel sıralama: {userAnswers[3] === visualQuestions[3].correct ? "Doğru" : "Yanlış"}</li>
-                <li>✅ Renk algısı: {userAnswers[4] === visualQuestions[4].correct ? "Doğru" : "Yanlış"}</li>
-                <li>✅ Görsel gruplama: {userAnswers[8] === visualQuestions[8].correct ? "Doğru" : "Yanlış"}</li>
+                <li>{userAnswers[3] === visualQuestions[3].correct ? "✅" : "❌"} Görsel sıralama</li>
+                <li>{userAnswers[4] === visualQuestions[4].correct ? "✅" : "❌"} Renk algısı</li>
+                <li>{userAnswers[8] === visualQuestions[8].correct ? "✅" : "❌"} Görsel gruplama</li>
               </ul>
             </div>
+
             <div style={{ backgroundColor: '#f8fafc', padding: '15px', borderRadius: '8px' }}>
               <h4 style={{ color: '#1e40af', marginBottom: '10px' }}>Hafıza ve Detay</h4>
               <ul style={{ listStyle: 'none', padding: 0 }}>
-                <li>✅ Görsel hafıza: {userAnswers[5] === visualQuestions[5].correct ? "Doğru" : "Yanlış"}</li>
-                <li>✅ Şekil sayma: {userAnswers[6] === visualQuestions[6].correct ? "Doğru" : "Yanlış"}</li>
-                <li>✅ Simetri algısı: {userAnswers[9] === visualQuestions[9].correct ? "Doğru" : "Yanlış"}</li>
+                <li>{userAnswers[5] === visualQuestions[5].correct ? "✅" : "❌"} Görsel hafıza</li>
+                <li>{userAnswers[6] === visualQuestions[6].correct ? "✅" : "❌"} Şekil sayma</li>
+                <li>{userAnswers[9] === visualQuestions[9].correct ? "✅" : "❌"} Simetri algısı</li>
               </ul>
             </div>
           </div>
+
         </div>
         <div className="test-actions">
           <button onClick={() => navigate("/tests")} className="btn-primary">Test Listesine Dön</button>

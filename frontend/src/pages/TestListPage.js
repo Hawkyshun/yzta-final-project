@@ -16,6 +16,8 @@ export default function TestListPage() {
       navigate("/test/attention");
     } else if (testType === "Zaman Yer Yönelimi") {
       navigate("/test/orientation");
+     } else if (testType === "Görsel Algısal") {
+    navigate("/test/visual");
     } else {
       setToast({
         message: `${testType} testi henüz geliştirilmedi. Yakında eklenecek!`,
