@@ -1,10 +1,12 @@
 # NeuroScan - Kognitif Değerlendirme Platformu
 
 ## Grup Üyeleri (Grup 58)
-- Furkan Erdoğan
-- Sezin Yavuz
-- İmran Kaçan
 - Sinem Karatepe
+- İmran Kaçan
+- Sezin Yavuz
+- Furkan Erdoğan
+
+
 
 ---
 
