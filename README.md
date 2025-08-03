@@ -205,10 +205,10 @@ Sprint 3'de en çok iş yapılması hedeflenecek şekilde puan hedefi olan 300 p
 Toplantılar whatsapp üzerinden yapılmıştır. Sprint 3 ekran görüntüleri için [Daily Scrum klasörüne](./Daily%20Scrum/) bakınız.
 
 ### Sprint Board Update
-[](https://imgur.com/a/q7ncMuQ)
+![](https://imgur.com/a/q7ncMuQ)
 
 ### Ekran Görüntüleri
-[](https://imgur.com/a/rdB06Y7)
+![](https://imgur.com/a/rdB06Y7)
 
 ### Sprint Review
 - Backend tarafında önemli ilerlemeler kaydedildi ve performans iyileştirmeleri yapıldı.
