@@ -65,7 +65,7 @@ yzta-final-project/
 |--------|-------|----------------|
 | Sprint 1 | ✅ Tamamlandı | Proje seçimi, planlama, teknoloji kararları |
 | Sprint 2 | ✅ Tamamlandı | Frontend geliştirme, UI/UX tasarımı |
-| Sprint 3 | ... | Backend geliştirme, AI entegrasyonu, PDF rapor, Optimizasyon |
+| Sprint 3 | ✅ Tamamlandı | Backend geliştirme, AI entegrasyonu, PDF rapor, Optimizasyon |
 
 
 ### Daily Scrum Toplantıları
@@ -75,7 +75,6 @@ Toplantılar Whatsapp üzerinden yapıldı. Screenshotlar [Daily Scrum klasörü
 # Sprint Geçmişi ve Notlar
 
 ## Sprint 1
-**Tarih:** 1-2 Hafta  
 **Durum:** ✅ Tamamlandı
 
 ## Product Backlog URL
@@ -109,7 +108,6 @@ Toplantılar Whatsapp üzerinden yapıldı. Screenshotlar [Daily Scrum klasörü
 ---
 
 ## Sprint 2
-**Tarih:** 3-4 Hafta  
 **Durum:** ✅ Tamamlandı
 
 ### Sprint Notları 
@@ -180,8 +178,18 @@ Sprint 2 sürecinde geliştirilen özellikler ve tamamlanan görevler board üze
 ---
 
 ## Sprint 3
-**Tarih:** 5-6 Hafta  
 **Durum:** ✅ Tamamlandı
+
+### Planlanan Özellikler
+- Backend geliştirme 
+- AI entegrasyonu (Google Gemini) entegrasyonu
+- PDF rapor sistemi 
+- Test skorlama mekanizması 
+- Kullanıcı sonuçları ve geçmiş takibi 
+- Test ve optimizasyon
+- Dokümantasyon tamamlama
+- Deployment hazırlıkları
+- Final testler ve hata düzeltmeleri
 
 
 ## Product Backlog URL
@@ -197,36 +205,22 @@ Sprint 3'de en çok iş yapılması hedeflenecek şekilde puan hedefi olan 300 p
 Toplantılar whatsapp üzerinden yapılmıştır. Sprint 3 ekran görüntüleri için [Daily Scrum klasörüne](./Daily%20Scrum/) bakınız.
 
 ### Sprint Board Update
-
-
-
-
-### Planlanan Özellikler
-- Backend geliştirme tamamlandı
-- AI entegrasyonu (Google Gemini) başarıyla entegre edildi
-- PDF rapor sistemi geliştirildi
-- Test skorlama mekanizması tamamlandı
-- Kullanıcı sonuçları ve geçmiş takibi eklendi
-- Test ve optimizasyon
-- Dokümantasyon tamamlama
-- Deployment hazırlıkları
-- Final testler ve hata düzeltmeleri
+[](https://imgur.com/a/q7ncMuQ)
 
 ### Ekran Görüntüleri
-
+[](https://imgur.com/a/rdB06Y7)
 
 ### Sprint Review
-- Backend API başarıyla geliştirildi ve test edildi
-- AI analiz sistemi entegre edildi
-- PDF rapor sistemi çalışır durumda
-- Kullanıcı deneyimi iyileştirildi
+- Backend tarafında önemli ilerlemeler kaydedildi ve performans iyileştirmeleri yapıldı.
+- Sonuçların veritabanına kaydedilmesi, geçmiş sonuçların sorgulanması ve skorlama algoritması gibi kritik işler bu sprintte yapıldı.
+- Frontend backend entegrasyonu sorunsuz tamamlandı. Test ekranları stabil bir şekilde çaşülışmakta.
+- Sprint boyunca hedeflediğimiz tüm işler zamanında tamamlandı ve sunuma hazır hale getirildi.
 
 ### Sprint Retrospective
-- Backend geliştirme süreci planlandığı gibi tamamlandı
-- AI entegrasyonu için ek araştırma gerekli oldu
-- Test süreçleri daha sistematik yapılmalı
-
-### Sprint 3 için Ek Planlanan Özellikler
+- Ekip içi iletişim önceki sprintlere kıyasla çok daha güçlüydü.
+- Görevler zamanında yerine getirildi ve herkes sorumluluk bilinciyle hareket etti.
+- İş bölümü daha netti ekip içi destek sayesinde işler hızlıca ilerledi.
+- Toplantılar verimli geçti, planlamaya sadık kalındı.
 
 
 ---
