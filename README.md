@@ -183,15 +183,37 @@ Sprint 2 sürecinde geliştirilen özellikler ve tamamlanan görevler board üze
 **Tarih:** 5-6 Hafta  
 **Durum:** ✅ Tamamlandı
 
+
+## Product Backlog URL
+[Sprint 3 Backlog](https://miro.com/welcomeonboard/SXR4MmVFRUxiaXN3U013bFZDcFB0SldZNzZvLzdVUnJDaVloQUR4dWN2RStxOGRjbGwyWUlXdmRtWGNIY1JxcUFsRnRqbWJjMWJIRG9hTnB6T3FwVU05dnFoWU9tRlFHWTJkMy9Qb0dZNTFzV2ZMVHVXYmk3akZxSEFGd3AxeDl3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=924650838172) 
+
 ### Sprint Notları
+User Storyler Product Backlogların içerisine yazılmıştır. Roller uygun olan backloga göre boyanmıştır. Açıklamalara tıklandığında puanlar görülmektedir.
+
+### Puan Mantığı
+Sprint 3'de en çok iş yapılması hedeflenecek şekilde puan hedefi olan 300 puan tamamlanmıştır.
+
+### Daily Scrum
+Toplantılar whatsapp üzerinden yapılmıştır. Sprint 3 ekran görüntüleri için [Daily Scrum klasörüne](./Daily%20Scrum/) bakınız.
+
+### Sprint Board Update
+
+
+
+
+### Planlanan Özellikler
 - Backend geliştirme tamamlandı
 - AI entegrasyonu (Google Gemini) başarıyla entegre edildi
 - PDF rapor sistemi geliştirildi
 - Test skorlama mekanizması tamamlandı
 - Kullanıcı sonuçları ve geçmiş takibi eklendi
+- Test ve optimizasyon
+- Dokümantasyon tamamlama
+- Deployment hazırlıkları
+- Final testler ve hata düzeltmeleri
 
 ### Ekran Görüntüleri
-> Sprint 3 ekran görüntüleri için [Daily Scrum klasörüne](./Daily%20Scrum/) bakınız.
+
 
 ### Sprint Review
 - Backend API başarıyla geliştirildi ve test edildi
@@ -205,10 +227,6 @@ Sprint 2 sürecinde geliştirilen özellikler ve tamamlanan görevler board üze
 - Test süreçleri daha sistematik yapılmalı
 
 ### Sprint 3 için Ek Planlanan Özellikler
-- Test ve optimizasyon
-- Dokümantasyon tamamlama
-- Deployment hazırlıkları
-- Final testler ve hata düzeltmeleri
 
 
 ---
